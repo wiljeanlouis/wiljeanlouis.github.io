@@ -21,9 +21,9 @@
 title: Wil Jean-Louis
 email: wilkygandyj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi everyone, my name is Wilky Gandy Jean-Louis.
-  Welcome to my blog. In this space, I talk about everything I want 
-  to share with you. My day-to-day experience in everything in life.
+  Hi everyone, Welcome to my blog.
+  My name is Wilky Gandy Jean-Louis. In this space, I talk about everything 
+  I want to share with you. My day-to-day experience in everything in life.
   It can be success, it can be failure too. Happy to have you here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wiljeanlouis.com" # the base hostname & protocol for your site, e.g. http://example.com
