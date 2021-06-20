@@ -1,7 +1,8 @@
 ---
-layout: single
 title: About
+layout: single
 permalink: /about/
+author_profile: true
 ---
 
 As you can already notice at the of the page, my name is Wilky Gandy JEAN-LOUIS.
