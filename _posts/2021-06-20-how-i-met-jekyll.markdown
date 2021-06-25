@@ -1,5 +1,5 @@
 ---
-title:  "How I meet Jekyll"
+title:  "How I met Jekyll"
 date:   2021-06-20 01:10:11 -0500
 categories: Programming
 tags:   [Jekyll, GitHub Pages, Static Site Generator, JAMstack]
