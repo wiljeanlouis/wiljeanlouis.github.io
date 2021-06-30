@@ -18,11 +18,11 @@ Before starting any project, it’s important to find the best proportion of tho
 
 
 - ###### The delivery time
-To deliver a personal project, the time I spend on the implementation is an important factor for me. Spending too much time on it can lead me to discouragement and increase my risk of abandonment. Because during the implementation, my workloads can be increased at work or I can be booked by a new client on a new project. So having a tool that allows me to minimize the time to deliver is a must.
+The time I spend on the implementation is an important factor for me to deliver a personal project. Spending too much time on it can lead me to discouragement and increase my risk of abandonment. Because during the implementation, my workloads can be increased at work or I can be booked by a new client on a new project. So having a tool that allows me to minimize the time to deliver is a must.
 
 
 - ###### The quality requirement
-I am a web developer who is more experimented in implement web applications than websites. So my abilities to create a blog are limited. Some competencies are: Search engine optimization, UI/UX of the product, best practices for a blog website, articles classification (tags and categories), comments management, etc. So having a tool that allows me to deliver a blog with all that functionalities is a must too.
+I am a web developer who is more experimented in implement web applications than websites. So my abilities to create a blog are limited. Some competencies are: Search engine optimization, UI/UX of the product, best practices for a blog website, articles classification (tags and categories), comment management, etc. So having a tool that allows me to deliver a blog with all that functionalities is a must too.
 
 
 - ###### The cost
